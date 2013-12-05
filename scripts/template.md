@@ -24,9 +24,9 @@ Check-Outs<a name="picks"></a>
 CLOSE
 -----
 
-Follow [@foodfightshow](http://twitter.com/arresteddevops) on twitter.
+Follow us on Twitter at [@ArrestedDevOps](http://twitter.com/arresteddevops).
 
-Also, you can submit show ideas to our [github repo](https://github.com/arresteddevops/podcast)
+Please feel free to submit show ideas to our [github repo](https://github.com/arresteddevops/podcast)
 
 
 
