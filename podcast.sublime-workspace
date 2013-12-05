@@ -1,0 +1,371 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Arr",
+				"arresteddevops"
+			],
+			[
+				"ins",
+				"install"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 207.0,
+		"selected_items":
+		[
+			[
+				"mdp",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"gp",
+				"Git: Push"
+			],
+			[
+				"gqc",
+				"Git: Quick Commit"
+			],
+			[
+				"mdpr",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"giq",
+				"Git: Quick Commit"
+			],
+			[
+				"git com",
+				"Git: Quick Commit"
+			],
+			[
+				"be",
+				"BeautifyRuby"
+			],
+			[
+				"b",
+				"BeautifyRuby"
+			],
+			[
+				"marke",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"md",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"m p",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"MARKE",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git push",
+				"Git: Push Current Branch"
+			],
+			[
+				"git comm",
+				"Git: Quick Commit"
+			],
+			[
+				"gitcom",
+				"Git: Commit"
+			],
+			[
+				"bea",
+				"BeautifyRuby"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"insall",
+				"Package Control: Install Package"
+			],
+			[
+				"git:ann",
+				"Git: Toggle Annotations"
+			],
+			[
+				"git:pus",
+				"Git: Push"
+			],
+			[
+				"git:qui",
+				"Git: Quick Commit"
+			],
+			[
+				"git:comm",
+				"Git: Commit history"
+			],
+			[
+				"git:",
+				"Git: Status"
+			],
+			[
+				"git:diff",
+				"Git: Diff All"
+			],
+			[
+				"gitstat",
+				"Git: Status"
+			],
+			[
+				"di",
+				"Git: Diff All"
+			],
+			[
+				"Git:stat",
+				"Git: Status"
+			],
+			[
+				"install	",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"repos",
+				"Package Control: Add Repository"
+			],
+			[
+				"",
+				"Package Control: Add Channel"
+			]
+		],
+		"width": 647.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mstratton/src/arresteddevops.com/source/_includes/custom/asides/social.html",
+		"/Users/mstratton/src/arresteddevops.com/source/_includes/article.html",
+		"/Users/mstratton/src/arresteddevops.com/source/_posts/2013-12-04-if-this.markdown",
+		"/Users/mstratton/src/arresteddevops.com/Rakefile",
+		"/Users/mstratton/src/arresteddevops.com/_config.yml",
+		"/Users/mstratton/src/arresteddevops.com/source/_includes/custom/head.html",
+		"/Users/mstratton/src/arresteddevops.com/source/_posts/2013-12-04-episode-000-is-this-thing-on.markdown",
+		"/Users/mstratton/src/arresteddevops.com/plugins/audio_tab.rb",
+		"/Users/mstratton/src/arresteddevops.com/source/about/index.markdown",
+		"/Users/mstratton/src/arresteddevops.com/source/_includes/custom/navigation.html",
+		"/Users/mstratton/src/arresteddevops.com/source/contact/index.markdown",
+		"/Users/mstratton/src/arresteddevops.com/source/_includes/head.html",
+		"/Users/mstratton/src/arresteddevops.com/source/images/AD-logo.png",
+		"/Users/mstratton/src/arresteddevops.com/deploy.sh",
+		"/Users/mstratton/src/arresteddevops.com/source/_includes/custom/asides/about.html",
+		"/Users/mstratton/src/arresteddevops.com/README.markdown",
+		"/Users/mstratton/src/arresteddevops.com/source/itunes.rss",
+		"/Users/mstratton/src/arresteddevops.com/plugins/octopress_filters.rb",
+		"/Users/mstratton/src/arresteddevops.com/plugins/category_list.rb",
+		"/Users/mstratton/src/arresteddevops.com/source/index.html",
+		"/Users/mstratton/src/arresteddevops.com/sass/screen.scss",
+		"/Users/mstratton/src/arresteddevops.com/plugins/youtube.rb",
+		"/Users/mstratton/src/arresteddevops.com/.travis.yml",
+		"/Users/mstratton/src/arresteddevops.com/source/_posts/2013-12-03-titles-are-hard.markdown",
+		"/Users/mstratton/src/arresteddevops.com/Gemfile",
+		"/Users/mstratton/src/arresteddevops.com/source/_posts/2013-12-03-this-is-a-test.markdown",
+		"/Users/mstratton/src/arresteddevops.com/source/categories/index.html",
+		"/Users/mstratton/src/arresteddevops.com/.git/MERGE_MSG",
+		"/Users/mstratton/src/arresteddevops.com/source/colophon/index.markdown",
+		"/Users/mstratton/Downloads/mgp-dc01.rdp",
+		"/Users/mstratton/Downloads/gistfile1.bat",
+		"/Users/mstratton/src/arresteddevops.com/source/_posts/2013-11-21-it-has-begun-dot-dot-dot.markdown",
+		"/Users/mstratton/src/arresteddevops.com/source/_includes/custom/header.html",
+		"/Users/mstratton/src/arresteddevops.com/source/_includes/custom/footer.html",
+		"/Users/mstratton/src/arresteddevops.com/sass/custom/_fonts.scss",
+		"/Users/mstratton/src/arresteddevops.com/source/_includes/custom/asides/twitter.html",
+		"/Volumes/NANO PRO/scripts/initaws",
+		"/Users/mstratton/src/arresteddevops.com/source/_includes/asides/twitter.html",
+		"/Users/mstratton/src/arresteddevops.com/sass/base/_layout.scss",
+		"/Users/mstratton/src/arresteddevops.com/sass/custom/_styles.scss",
+		"/Users/mstratton/src/arresteddevops.com/sass/custom/_font-awesome.scss",
+		"/Users/mstratton/src/arresteddevops.com/sass/_font-awesome.scss",
+		"/Users/mstratton/src/arresteddevops.com/sass/base/_styles.scss",
+		"/Users/mstratton/src/arresteddevops.com/.git/config",
+		"/Users/mstratton/src/cookbooks/xm-demo-cookbook/metadata.rb",
+		"/Users/mstratton/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/mstratton/src/cookbooks/xm-demo-cookbook/recipes/baseos.rb",
+		"/Users/mstratton/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/mstratton/Library/Application Support/Sublime Text 3/Packages/Vagrant/Vagrant.sublime-settings",
+		"/Users/mstratton/Library/Application Support/Sublime Text 3/Packages/GitGutter/GitGutter.sublime-settings",
+		"/Users/mstratton/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/CHANGELOG",
+		"/Users/mstratton/.chef/knife.rb",
+		"/Users/mstratton/Library/Application Support/Sublime Text 3/Packages/BeautifyRuby/BeautifyRuby.sublime-settings",
+		"/Users/mstratton/Library/Application Support/Sublime Text 3/Packages/User/BeautifyRuby.sublime-settings",
+		"/Users/mstratton/Library/Application Support/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/Users/mstratton/src/cookbooks/xm-demo-cookbook/.gitignore",
+		"/Users/mstratton/Downloads/test.html",
+		"/Users/mstratton/Downloads/Setup%20Scripts/Common.psm1",
+		"/Users/mstratton/src/cookbooks/xm-demo-cookbook/Gemfile",
+		"/Users/mstratton/Downloads/Setup%20Scripts/zs_SQL_Client.ps1",
+		"/Users/mstratton/.bash_profile"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"www.ewal.net",
+			"header"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"www.arresteddevops.com"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"project": "podcast.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 408.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
