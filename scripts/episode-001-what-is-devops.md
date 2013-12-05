@@ -1,4 +1,4 @@
-Show Date:  [Friday, December 6, 2013 at 00:00:00](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Arrested+DevOps+%23001+-+What+Is+DevOps%3F&iso=20131205T18&p1=64&ah=1)
+Show Date:  [Friday, December 6, 2013 at 00:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Arrested+DevOps+%23001+-+What+Is+DevOps%3F&iso=20131205T18&p1=64&ah=1)
 
 Panel<a name="panel"></a>
 ---------------
@@ -18,7 +18,7 @@ Main Topic: What does DevOps mean?
 Panel to discuss what the phrase means, where it is relevant, and why it's important. 
 
 
-Check-Outs<a name="picks"></a>
+Check-Outs<a name="checkouts"></a>
 -----
 
 #### Matt  
