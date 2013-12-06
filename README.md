@@ -14,4 +14,4 @@ Episodes
 =================
 
 * [Episode 000 - Is This Thing On?](http://arresteddevops.com/2013/12/04/episode-000-is-this-thing-on/)
-* [Episode 0001 - What Is DevOps?](http://arresteddevops.com/2013/12/05/episode-001-what-is-devops/)
+* [Episode 001 - What Is DevOps?](http://arresteddevops.com/2013/12/05/episode-001-what-is-devops/)
