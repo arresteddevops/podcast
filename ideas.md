@@ -1,7 +1,7 @@
 Ideas
 ====
 
-* The CTO Show - panel of CTO's talking about if they've done DevOps, if not, why not, advice, thoughts, etc
+* From The Corner Office - panel of CTO/CIO/CEO (etc) talking about if they've done DevOps, if not, why not, advice, thoughts, etc
 * Why Not DevOps? - maybe people who are resistent to it, think it's bad, and why is it bad? 
 * How to change your company culture to a DevOps model? Bill Joy maybe? Please?
 * The Tester Show - QA folks. Maybe Lanette Creamer? Please?
@@ -15,3 +15,6 @@ Ideas
 * Deployment - Releasing software and bits in the DevOps world. 
 * Documentation - What are the best ways to manage a team's internal documentation? External documentation for users? What tools are available and what are the pros/cons? Who should write it, an intern or the lead engineer? How to keep it up-to-date?
 * Backups and Disaster Recovery - not sexy but important
+* DevOps Collaboration - What are the best ways to get the team talking/interacting? ChatOps? [VictorOps](http://victorops.com/), etc.
+* Scaling For Fun and Profit - How does DevOps work at scale? What does that even mean? 
+* The Culture Show - In a true DevOps workplace, what are the social/cultural implications for the people who work there (and the people who manage them)?
