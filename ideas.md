@@ -13,3 +13,5 @@ Ideas
 * Continuous Integration = Maybe @DevToolSuperFan? And other expert type people?
 * The Dev Show - Panel of developers from various orgs to see what they think of DevOps
 * Deployment - Releasing software and bits in the DevOps world. 
+* Documentation - What are the best ways to manage a team's internal documentation? External documentation for users? What tools are available and what are the pros/cons? Who should write it, an intern or the lead engineer? How to keep it up-to-date?
+* Backups and Disaster Recovery - not sexy but important
