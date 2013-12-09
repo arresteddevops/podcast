@@ -18,3 +18,4 @@ Ideas
 * DevOps Collaboration - What are the best ways to get the team talking/interacting? ChatOps? [VictorOps](http://victorops.com/), etc.
 * Scaling For Fun and Profit - How does DevOps work at scale? What does that even mean? 
 * The Culture Show - In a true DevOps workplace, what are the social/cultural implications for the people who work there (and the people who manage them)?
+* Cloudy with a Chance of DevOps - how does cloud computing factor into devops? can you do devops without the cloud? what the hell is a freaking cloud anyway?
