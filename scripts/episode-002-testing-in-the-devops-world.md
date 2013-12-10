@@ -7,14 +7,12 @@ Confirmed Panel<a name="panel"></a>
 -----
 
 * Matt Stratton [github](http://github.com/mattstratton), [twitter](https://twitter.com/mattstratton), irc: MattStratton, [blog](http://www.mattstratton.com/)
-
-
+* Trevor Hess [github](https://github.com/trevorghess), [twitter](http://twitter.com/trevorghess)
 
 Invited Panel
 -----
 Want to join us for this episode? shows@arresteddevops.com
 
-* Trevor Hess [github](https://github.com/trevorghess), [twitter](http://twitter.com/trevorghess)
 * Lanette Creamer [twitter](http://twitter.com/lanettecream)
 
 Outline/Questions
