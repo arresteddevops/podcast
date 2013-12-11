@@ -1,4 +1,4 @@
-*Show Date:  TBD*
+*Show Date:  [Friday, December 20, 2013 at 01:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Arrested+DevOps+Episode+2+-+Does+Testing+Keeps+You+From+Making+A+Huge+Mistake%3F&iso=20131219T19&p1=64&ah=1)*
 
 Does Testing Keeps You From Making A Huge Mistake?
 =====
@@ -8,12 +8,13 @@ Confirmed Panel<a name="panel"></a>
 
 * Matt Stratton [github](http://github.com/mattstratton), [twitter](https://twitter.com/mattstratton), irc: MattStratton, [blog](http://www.mattstratton.com/)
 * Trevor Hess [github](https://github.com/trevorghess), [twitter](http://twitter.com/trevorghess)
+* Lanette Creamer [twitter](http://twitter.com/lanettecream) [blog](http://blog.testyredhead.com/)
 
 Invited Panel
 -----
+
 Want to join us for this episode? shows@arresteddevops.com
 
-* Lanette Creamer [twitter](http://twitter.com/lanettecream)
 
 Outline/Questions
 -----------------
