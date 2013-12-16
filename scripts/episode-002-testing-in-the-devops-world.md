@@ -13,6 +13,8 @@ Confirmed Panel<a name="panel"></a>
 Invited Panel
 -----
 
+* Nate Brengle
+
 Want to join us for this episode? shows@arresteddevops.com
 
 
