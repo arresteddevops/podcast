@@ -19,3 +19,4 @@ Ideas
 * Scaling For Fun and Profit - How does DevOps work at scale? What does that even mean? 
 * The Culture Show - In a true DevOps workplace, what are the social/cultural implications for the people who work there (and the people who manage them)?
 * Cloudy with a Chance of DevOps - how does cloud computing factor into devops? can you do devops without the cloud? what the hell is a freaking cloud anyway?
+* Can DevOps come up as grassroots or does it have to be top-down? How do you do DevOps without "senior management" driving it?
