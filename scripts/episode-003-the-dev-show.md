@@ -1,4 +1,4 @@
-**Show Date: TBD**
+*Show Date: TBD*
 
 The Dev Show
 =====
