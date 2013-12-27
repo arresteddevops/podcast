@@ -8,8 +8,8 @@ Confirmed Panel<a name="panel"></a>
 
 * Matt Stratton [github](http://github.com/mattstratton), [twitter](https://twitter.com/mattstratton), irc: MattStratton, [blog](http://www.mattstratton.com/)
 * Trevor Hess [github](https://github.com/trevorghess), [twitter](http://twitter.com/trevorghess)
-* Dan DiGangi [github](http://github.com/dandigangi), [twitter](https://twitter.com/ddigangi), [blog](http://blog.dandigangi.me/)
-* David Braverman [blog](http://www.thedailyparker.com/)
+* Dan DiGangi (Adexa Media) [github](http://github.com/dandigangi), [twitter](https://twitter.com/ddigangi), [blog](http://blog.dandigangi.me/)
+* David Braverman (10th Magnitude) [blog](http://www.thedailyparker.com/)
 
 Invited Panel
 -----
@@ -31,6 +31,8 @@ Check-Outs<a name="checkouts"></a>
 #### Trevor  
 
 #### Dan
+
+#### David
 
 
 
