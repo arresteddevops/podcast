@@ -1,4 +1,4 @@
-Show Date: [Tuesday, January 2, 2014, at 7:00 PM CST](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Arrested+DevOps+Episode+003+-+The+Dev+Show&iso=20140102T19&p1=64)
+Show Date: [Thursday, January 2, 2014, at 7:00 PM CST](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Arrested+DevOps+Episode+003+-+The+Dev+Show&iso=20140102T19&p1=64)
 
 The Dev Show
 =====
