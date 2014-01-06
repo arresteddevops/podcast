@@ -13,6 +13,6 @@ All the stuff needed for producing the podcasts. Shamelessly stolen from the fin
 Episodes
 =================
 
-* [Episode 000 - Is This Thing On?](http://arresteddevops.com/2013/12/04/episode-000-is-this-thing-on/)
 * [Episode 001 - What Is DevOps?](http://arresteddevops.com/2013/12/05/episode-001-what-is-devops/)
 * [Episode 002 - Does Testing Keep You From Making a Huge Mistake?](http://arresteddevops.com/2013/12/16/episode-002-does-testing-keeps-you-from-making-a-huge-mistake/)
+* [Episode 003 - The Dev Show](http://arresteddevops.com/2014/01/02/episode-003-the-dev-show/)
