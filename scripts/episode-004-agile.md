@@ -8,12 +8,8 @@ Confirmed Panel<a name="panel"></a>
 
 * Matt Stratton [github](http://github.com/mattstratton), [twitter](https://twitter.com/mattstratton), irc: MattStratton, [blog](http://www.mattstratton.com/)
 * Trevor Hess [github](https://github.com/trevorghess), [twitter](http://twitter.com/trevorghess)
-
-Invited Panel
------
-
-
-Want to join us? Email shows@arresteddevops.com or tweet us at @ArrestedDevOps
+* Patrick O'Brien
+* Len Lagestee
 
 
 Outline/Questions
@@ -27,6 +23,10 @@ Check-Outs<a name="checkouts"></a>
 #### Matt  
 
 #### Trevor  
+
+#### Patrick
+
+#### Len
 
 
 
