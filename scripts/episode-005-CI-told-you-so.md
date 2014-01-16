@@ -9,7 +9,6 @@ Confirmed Panel
 * Matt Stratton [github](http://github.com/mattstratton), [twitter](https://twitter.com/mattstratton), irc: MattStratton, [blog](http://www.mattstratton.com/)
 * Trevor Hess [github](https://github.com/trevorghess), [twitter](http://twitter.com/trevorghess)
 * Todd Vernon
-* Angela Dugan
 
 
 Outline/Questions
