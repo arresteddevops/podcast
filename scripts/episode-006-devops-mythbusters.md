@@ -13,10 +13,17 @@ Confirmed Panel
 * Sascha Bates
 
 
-Outline/Questions
+Agenda
 -----------------
 
-Please submit your questions either via a PR or send them to us via Twitter @ArrestedDevOps.
+For this episode, we will list commonly held beliefs about DevOps, and our panelists will determine if they are true or myths. Please feel free to submit your ideas for this list either via a PR or send them to us via Twitter @ArrestedDevOps.
+
+* There is such a thing as a "DevOps Engineer"
+* DevOps only works for startups or web companies. 
+* DevOps doesn't scale
+* I can't do DevOps without using configuration management tools like Chef, Puppet, etc
+* DevOps only works with Open Source tools
+* You can't do DevOps without being Agile
 
 
 Check-Outs
