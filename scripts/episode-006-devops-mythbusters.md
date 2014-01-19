@@ -24,6 +24,7 @@ For this episode, we will list commonly held beliefs about DevOps, and our panel
 * I can't do DevOps without using configuration management tools like Chef, Puppet, etc
 * DevOps only works with Open Source tools
 * You can't do DevOps without being Agile
+* You're either DevOps or you're not
 
 
 Check-Outs
