@@ -27,6 +27,7 @@ For this episode, we will list commonly held beliefs about DevOps, and our panel
 * You're either DevOps or you're not
 * DevOps means "developers do operations work"
 * Tools you use promote the devops cultural change.
+* DevOps means developers get admin access in production
 
 
 Check-Outs
