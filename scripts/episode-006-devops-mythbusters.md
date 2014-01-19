@@ -25,6 +25,7 @@ For this episode, we will list commonly held beliefs about DevOps, and our panel
 * DevOps only works with Open Source tools
 * You can't do DevOps without being Agile
 * You're either DevOps or you're not
+* DevOps means "developers do operations work"
 
 
 Check-Outs
