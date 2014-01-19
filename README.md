@@ -16,3 +16,4 @@ Episodes
 * [Episode 001 - What Is DevOps?](http://arresteddevops.com/2013/12/05/episode-001-what-is-devops/)
 * [Episode 002 - Does Testing Keep You From Making a Huge Mistake?](http://arresteddevops.com/2013/12/16/episode-002-does-testing-keeps-you-from-making-a-huge-mistake/)
 * [Episode 003 - The Dev Show](http://arresteddevops.com/2014/01/02/episode-003-the-dev-show/)
+* [Episode 004 - Agile and DevOps](http://www.arresteddevops.com/2014/01/13/episode-004-agile-and-devops/)
