@@ -10,7 +10,7 @@ Ideas
 * DevOps Gone Wrong - Horror stories
 * Data and DevOps - Panel of DBA's
 * Configuration management roundtable - Puppet, Chef, PowerShell DSC, etc. (@stevenmurawski can talk about DSC, maybe @cwebber could talk about Puppet..) 
-* Agile DevOps - how do the two mix? What are the overlaps, myths, confusions? Len Lagestee as a guest?
+* ~~Agile DevOps - how do the two mix? What are the overlaps, myths, confusions? Len Lagestee as a guest?~~
 * Continuous Integration = Maybe @DevToolSuperFan? And other expert type people?
 * ~~The Dev Show - Panel of developers from various orgs to see what they think of DevOps~~
 * Deployment - Releasing software and bits in the DevOps world. 
