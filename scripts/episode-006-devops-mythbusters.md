@@ -28,6 +28,13 @@ For this episode, we will list commonly held beliefs about DevOps, and our panel
 * DevOps means "developers do operations work"
 * Tools you use promote the devops cultural change.
 * DevOps means developers get admin access in production
+* A DevOps is a sysadmin that uses config mgmt.
+* Developers cannot be trusted.
+* DevOps is about hiring sysadmins who code.
+* Shops practicing DevOps should have a DevOps team.
+* Tools are core to practicing DevOps.
+* DevOps doesn't work.
+* We can’t do DevOps because we need separation of duties.
 
 
 Check-Outs
