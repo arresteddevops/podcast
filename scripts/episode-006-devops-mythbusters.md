@@ -34,6 +34,7 @@ For this episode, we will list commonly held beliefs about DevOps, and our panel
 * Tools are core to practicing DevOps.
 * DevOps doesn't work.
 * We can’t do DevOps because we need separation of duties.
+* You're only "doing the devops" if you're running *nix.
 
 
 Check-Outs
