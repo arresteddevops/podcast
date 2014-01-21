@@ -9,7 +9,7 @@ Confirmed Panel
 * Trevor Hess [github](https://github.com/trevorghess), [twitter](http://twitter.com/trevorghess)
 * John Willis [twitter](http://twitter.com/botchagaulpe)
 * Damon Edwards [twitter](http://twitter.com/damonedwards)
-* Sascha Bates [twitter](http://twitter.com/sascha_d) [blog](http://www.brattyredhead.com)
+* Sascha Bates [twitter](http://twitter.com/sascha_d), [blog](http://www.brattyredhead.com)
 
 
 Agenda
