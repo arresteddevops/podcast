@@ -7,9 +7,9 @@ Confirmed Panel
 
 * Matt Stratton [github](http://github.com/mattstratton), [twitter](https://twitter.com/mattstratton), irc: MattStratton, [blog](http://www.mattstratton.com/)
 * Trevor Hess [github](https://github.com/trevorghess), [twitter](http://twitter.com/trevorghess)
-* John Willis
-* Damon Edwards
-* Sascha Bates
+* John Willis [twitter](http://twitter.com/botchagaulpe)
+* Damon Edwards [twitter](http://twitter.com/damonedwards)
+* Sascha Bates [twitter](http://twitter.com/sascha_d) [blog](http://www.brattyredhead.com)
 
 
 Agenda
