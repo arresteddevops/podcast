@@ -14,14 +14,14 @@ Confirmed Panel
 Outline/Questions
 -----------------
 
-*Proper CI form
-*Is it CI if you aren’t checking into trunk daily?
-*What about feature branches?
-*What is the difference between using a CI tool for CI, and using a CI tool to orchestrate workflow automation
-*Where do you begin when wanting to start CI? What bite of the elephant goes first?
-*Where does testing come into play? How do we talk about unit vs functional testing and what is used in the CI portion/build?
-*How do you do a large release that has major changes but still manage to do CI? Where do you integrate?
-*Preflight checkin vs checking into trunk
+* Proper CI form
+* Is it CI if you aren’t checking into trunk daily?
+* What about feature branches?
+* What is the difference between using a CI tool for CI, and using a CI tool to orchestrate workflow automation
+* Where do you begin when wanting to start CI? What bite of the elephant goes first?
+* Where does testing come into play? How do we talk about unit vs functional testing and what is used in the CI portion/build?
+* How do you do a large release that has major changes but still manage to do CI? Where do you integrate?
+* Preflight checkin vs checking into trunk
 
 
 
