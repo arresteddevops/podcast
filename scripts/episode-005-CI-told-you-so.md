@@ -1,4 +1,4 @@
-Show Date: TDB
+Show Date: [Wednesday, January 29, 12 PM CST](http://www.timeanddate.com/worldclock/fixedtime.html?msg=ArrestedDevOps+-+CI+Told+You%21&iso=20140129T12&p1=64&ah=1)
 
 Continuous Integration- CI Told You So!
 =====
