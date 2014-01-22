@@ -8,7 +8,7 @@ Confirmed Panel
 
 * Matt Stratton [github](http://github.com/mattstratton), [twitter](https://twitter.com/mattstratton), irc: MattStratton, [blog](http://www.mattstratton.com/)
 * Trevor Hess [github](https://github.com/trevorghess), [twitter](http://twitter.com/trevorghess)
-* Mathias Meyer
+* Mathias Meyer [twitter](https://twitter.com/roidrage), [blog](http://www.paperplanes.de/)
 
 Retro
 -----------------
