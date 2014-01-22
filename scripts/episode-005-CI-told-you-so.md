@@ -14,9 +14,9 @@ Confirmed Panel
 Retro
 -----------------
 
-Matt
+#### Matt
 
-Trevor
+#### Trevor
 
 Outline
 -----------------
@@ -41,12 +41,16 @@ Check-Outs
 
 #### Todd
 
+#### Joe
+
 
 
 CLOSE
 -----
 
 Follow us on Twitter at [@ArrestedDevOps](http://twitter.com/arresteddevops).
+
+Leave us a [review on iTunes](https://itunes.apple.com/us/podcast/arrested-devops/id773888088?mt=2&uo=4&at=11lsCi)!
 
 Please feel free to submit show ideas to our [github repo](https://github.com/arresteddevops/podcast)
 
