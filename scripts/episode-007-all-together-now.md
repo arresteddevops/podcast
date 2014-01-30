@@ -1,4 +1,4 @@
-Show Date: TBD
+Show Date: [Tuesday, Feb 25, 2014 at 7PM CST](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Arrested+DevOps+-+Collaboration+Episode&iso=20140225T19&p1=64&ah=1)
 
 All Together Now! 
 =====
