@@ -1,4 +1,4 @@
-Show Date: [Monday, February 10, 7 PM CST](http://www.timeanddate.com/worldclock/fixedtime.html?msg=ArrestedDevOps+-+DevOps+Mythbusters&iso=20140210T19&p1=64&ah=1)
+Show Date: [Tuesday, February 10, 7 PM CST](http://www.timeanddate.com/worldclock/fixedtime.html?msg=ArrestedDevOps+-+DevOps+Mythbusters&iso=20140211T19&p1=64&ah=1)
 DevOps Mythbusters!
 =====
 
