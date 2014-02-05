@@ -1,5 +1,6 @@
 All dates are "week starting"
 
-* 1/27 - CI
-* 2/10 - Myths
-* 2/24 - Collaboration
+* 2/10 - Myths E6
+* 2/24 - Collaboration E7
+* 3/10 - Hostful E8
+* 3/24 - Config Management? E9
