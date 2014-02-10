@@ -1,4 +1,7 @@
 Show Date: [Tuesday, February 10, 7 PM CST](http://www.timeanddate.com/worldclock/fixedtime.html?msg=ArrestedDevOps+-+DevOps+Mythbusters&iso=20140211T19&p1=64&ah=1)
+
+Arrested DevOps is brought to you by: 10th Magnitude - helping businesses realize true agility through DevOps and cloud-enabled innovation.
+
 DevOps Mythbusters!
 =====
 
