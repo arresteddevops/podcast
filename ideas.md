@@ -1,7 +1,7 @@
 Ideas
 ====
 
-* [DevOps Mythbusters - what are the myths about DevOps?](https://github.com/arresteddevops/podcast/blob/master/scripts/episode-006-devops-mythbusters.md)
+* ~~[DevOps Mythbusters - what are the myths about DevOps?](https://github.com/arresteddevops/podcast/blob/master/scripts/episode-006-devops-mythbusters.md)~~
 * From The Corner Office - panel of CTO/CIO/CEO (etc) talking about if they've done DevOps, if not, why not, advice, thoughts, etc
 * Why Not DevOps? - maybe people who are resistent to it, think it's bad, and why is it bad? 
 * How to change your company culture to a DevOps model? Bill Joy maybe? Please?
@@ -22,3 +22,4 @@ Ideas
 * Cloudy with a Chance of DevOps - how does cloud computing factor into devops? can you do devops without the cloud? what the hell is a freaking cloud anyway?
 * Can DevOps come up as grassroots or does it have to be top-down? How do you do DevOps without "senior management" driving it?
 * Hiring for DevOps
+* DevOps for the regular people - have a panel of guests who are NOT technologists (but understand business, people, etc) and talk about DevOps in Reddit ELI5 style
