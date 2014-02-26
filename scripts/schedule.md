@@ -4,3 +4,4 @@ All dates are "week starting"
 * 2/24 - Collaboration E7
 * 3/10 - Hostful E8
 * 3/24 - Config Management? E9
+* 4/? - ChefConf all-skate w/ Foodfight and Ship Show
