@@ -9,7 +9,7 @@ Ideas
 * Something with Faisal. BI and DevOps? What?
 * DevOps Gone Wrong - Horror stories
 * Data and DevOps - Panel of DBA's
-* [Configuration management roundtable](http://www.arresteddevops.com/9)
+* ~~[Configuration management roundtable](http://www.arresteddevops.com/9)~~
 * ~~Agile DevOps - how do the two mix? What are the overlaps, myths, confusions? Len Lagestee as a guest?~~
 * ~~[Continuous Integration](https://github.com/arresteddevops/podcast/blob/master/scripts/episode-005-CI-told-you-so.md)~~
 * ~~The Dev Show - Panel of developers from various orgs to see what they think of DevOps~~
@@ -22,4 +22,5 @@ Ideas
 * Cloudy with a Chance of DevOps - how does cloud computing factor into devops? can you do devops without the cloud? what the hell is a freaking cloud anyway?
 * Can DevOps come up as grassroots or does it have to be top-down? How do you do DevOps without "senior management" driving it?
 * Hiring for DevOps
-* [DevOps for the regular people](http://www.arresteddevops.com/11)
+* DevOps for the regular people
+* The Sysadmin Show - how does a grizzled old-school sysadmin feel about this shiny new DevOps stuff?
