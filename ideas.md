@@ -24,3 +24,16 @@ Ideas
 * Hiring for DevOps
 * DevOps for the regular people
 * The Sysadmin Show - how does a grizzled old-school sysadmin feel about this shiny new DevOps stuff?
+* The DevOps Toolbox - SHARE ALL THE THINGS. The big bucket on the interwebs of DevOps resources. Guides
+* Distinctive DevOps  - DevOps best practices. 
+* Version Control - What it is and why you need it in DevOps. (Open discussion of vcs's Git, Mecurial, SVN, etc.)
+* Git 101 - How to start using Git in YOUR environment. 
+* Phd. in DevOps - Learning DevOps from online sources. What are the best ones? Free? Commercial? Books? Offline material? Recommended reading list etc? 
+* Testing the Testers - How to help your testers test your infrastructure as code. 
+* DevOps Newbcast / Starter Kit - Learning the very basics. 3000 ft view of DevOps. What are the basic things you need to get started in your company?
+* DevOpsCamp - Are there such things? Call for someone to make one. Similar to code camps but teach you devops practices as well. 
+* We put Ops in DevOps - Sysadmin Roundtable. How *we* use devops and what it means to Sysadmins. 
+* DevOps AMA - I'm a <insert special DevOps guest here> ask me anything. Q & A session via hangout / twitter.
+* It Takes Two - A DevOps Tango. - Focusing on tearing down the silos in your organization. Thoughts, suggestions, and resources to help you implement DevOps in your organization.
+* The DevOps Grass is Greener - Why DevOps is needed and how it makes *your* grass greener (watering it, improving your current DevOps process). Benefits of DevOps. 
+* DevOps User Groups - Do they exist, how to find one, how to create one, examples of successful ones?
