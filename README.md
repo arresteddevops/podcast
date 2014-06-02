@@ -23,3 +23,4 @@ Episodes
 * [Episode 008 - Managing Your Mental Stack](http://www.arresteddevops.com/managing-your-mental-stack/)
 * [Episode 009 - Fast and Furious: Configuration Drift](http://www.arresteddevops.com/configuration-management/)
 * [Episode 010 - Scaling the Application Mountains](http://www.arresteddevops.com/cloud-scaling/)
+* [Episode 011 – DevOps at Etsy: Not a Unicorn, Just a Sparkly Horse](http://www.arresteddevops.com/devops-at-etsy/)
