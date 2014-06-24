@@ -9,3 +9,4 @@ All dates are "week starting"
 * 7/16 - E15 Continuous Delivery with Jez Humble
 * 8/4 - E16 Help! I Need Somebody
 * 8/? - E17 The Sysadmin Show
+* 8/? - E18 Dev to Ops (John Smyth, Nate Burleson, and ???)
