@@ -1,6 +1,7 @@
 Ideas
 ====
 
+* A conversation with the authors of [The Practice of Cloud System Administration](http://the-cloud-book.com) An interview with Limoncelli/Chalup/Hogan about their take on DevOps, continuous improvement, and where the industry is moving.
 * ~~[DevOps Mythbusters - what are the myths about DevOps?](https://github.com/arresteddevops/podcast/blob/master/scripts/episode-006-devops-mythbusters.md)~~
 * From The Corner Office - panel of CTO/CIO/CEO (etc) talking about if they've done DevOps, if not, why not, advice, thoughts, etc
 * Why Not DevOps? - maybe people who are resistent to it, think it's bad, and why is it bad? 
