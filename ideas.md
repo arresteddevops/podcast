@@ -24,7 +24,7 @@ Ideas
 * Can DevOps come up as grassroots or does it have to be top-down? How do you do DevOps without "senior management" driving it?
 * Hiring for DevOps
 * DevOps for the regular people
-* The Sysadmin Show - how does a grizzled old-school sysadmin feel about this shiny new DevOps stuff?
+* ~~The Sysadmin Show - how does a grizzled old-school sysadmin feel about this shiny new DevOps stuff?
 * The DevOps Toolbox - SHARE ALL THE THINGS. The big bucket on the interwebs of DevOps resources. Guides
 * Distinctive DevOps  - DevOps best practices. 
 * Version Control - What it is and why you need it in DevOps. (Open discussion of vcs's Git, Mecurial, SVN, etc.)
