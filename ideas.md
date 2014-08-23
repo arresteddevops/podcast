@@ -7,9 +7,9 @@ Ideas
 * Why Not DevOps? - maybe people who are resistent to it, think it's bad, and why is it bad? 
 * How to change your company culture to a DevOps model? Bill Joy maybe? Please?
 * ~~The Tester Show - QA folks. Maybe Lanette Creamer? Please?~~
-* Something with Faisal. BI and DevOps? What?
+* Mental Health in Tech - guest will be Ed Finkler
 * DevOps Gone Wrong - Horror stories
-* Data and DevOps - Panel of DBA's
+* Database and DevOps/CD - Redgate and maybe someone else?
 * ~~[Configuration management roundtable](http://www.arresteddevops.com/9)~~
 * ~~Agile DevOps - how do the two mix? What are the overlaps, myths, confusions? Len Lagestee as a guest?~~
 * ~~[Continuous Integration](https://github.com/arresteddevops/podcast/blob/master/scripts/episode-005-CI-told-you-so.md)~~
@@ -22,9 +22,9 @@ Ideas
 * The Culture Show - In a true DevOps workplace, what are the social/cultural implications for the people who work there (and the people who manage them)?
 * Cloudy with a Chance of DevOps - how does cloud computing factor into devops? can you do devops without the cloud? what the hell is a freaking cloud anyway?
 * Can DevOps come up as grassroots or does it have to be top-down? How do you do DevOps without "senior management" driving it?
-* Hiring for DevOps
+* Hiring for DevOps/Getting a DevOps Job - Josh Hertz plus someone in recruiting, hiring, etc?
 * DevOps for the regular people
-* ~~The Sysadmin Show - how does a grizzled old-school sysadmin feel about this shiny new DevOps stuff?
+* ~~The Sysadmin Show - how does a grizzled old-school sysadmin feel about this shiny new DevOps stuff?~~
 * The DevOps Toolbox - SHARE ALL THE THINGS. The big bucket on the interwebs of DevOps resources. Guides
 * Distinctive DevOps  - DevOps best practices. 
 * Version Control - What it is and why you need it in DevOps. (Open discussion of vcs's Git, Mecurial, SVN, etc.)
@@ -38,3 +38,8 @@ Ideas
 * It Takes Two - A DevOps Tango. - Focusing on tearing down the silos in your organization. Thoughts, suggestions, and resources to help you implement DevOps in your organization.
 * The DevOps Grass is Greener - Why DevOps is needed and how it makes *your* grass greener (watering it, improving your current DevOps process). Benefits of DevOps. 
 * DevOps User Groups - Do they exist, how to find one, how to create one, examples of successful ones?
+* Deming/Goldratt stuff - Fletcher Nichol and John Willis?
+* DevOps and Security - Ben Hughes from Etsy and maybe others?
+* Empathy Show - Paul Reed? Adam Jacob? How not to be an asshole and why that's a problem. 
+* We Finally Talk About Cloud - Gotta do it sometime. 
+* Who Carries The Pager? Monitoring in a DevOps world. Does monitoring really suck? VictorOps maybe? Jason Dixon again?
