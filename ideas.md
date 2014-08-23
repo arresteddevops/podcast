@@ -14,7 +14,7 @@ Ideas
 * ~~Agile DevOps - how do the two mix? What are the overlaps, myths, confusions? Len Lagestee as a guest?~~
 * ~~[Continuous Integration](https://github.com/arresteddevops/podcast/blob/master/scripts/episode-005-CI-told-you-so.md)~~
 * ~~The Dev Show - Panel of developers from various orgs to see what they think of DevOps~~
-* Deployment - Releasing software and bits in the DevOps world. 
+* ~~Deployment - Releasing software and bits in the DevOps world.~~ 
 * Documentation - What are the best ways to manage a team's internal documentation? External documentation for users? What tools are available and what are the pros/cons? Who should write it, an intern or the lead engineer? How to keep it up-to-date?
 * Backups and Disaster Recovery - not sexy but important
 * ~~[DevOps Collaboration - What are the best ways to get the team talking/interacting?](https://github.com/arresteddevops/podcast/blob/master/scripts/episode-007-all-together-now.md)~~
