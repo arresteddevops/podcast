@@ -1,7 +1,7 @@
 Ideas
 ====
 
-* A conversation with the authors of [The Practice of Cloud System Administration](http://the-cloud-book.com) An interview with Limoncelli/Chalup/Hogan about their take on DevOps, continuous improvement, and where the industry is moving.
+* ~~A conversation with the authors of [The Practice of Cloud System Administration](http://the-cloud-book.com) An interview with Limoncelli/Chalup/Hogan about their take on DevOps, continuous improvement, and where the industry is moving.~~
 * ~~[DevOps Mythbusters - what are the myths about DevOps?](https://github.com/arresteddevops/podcast/blob/master/scripts/episode-006-devops-mythbusters.md)~~
 * From The Corner Office - panel of CTO/CIO/CEO (etc) talking about if they've done DevOps, if not, why not, advice, thoughts, etc
 * Why Not DevOps? - maybe people who are resistent to it, think it's bad, and why is it bad? 
@@ -39,7 +39,7 @@ Ideas
 * The DevOps Grass is Greener - Why DevOps is needed and how it makes *your* grass greener (watering it, improving your current DevOps process). Benefits of DevOps. 
 * DevOps User Groups - Do they exist, how to find one, how to create one, examples of successful ones?
 * Deming/Goldratt stuff - Fletcher Nichol and John Willis?
-* DevOps and Security - Ben Hughes from Etsy and maybe others?
+* ~~DevOps and Security - Ben Hughes from Etsy and maybe others?~~
 * Empathy Show - Paul Reed? Adam Jacob? How not to be an asshole and why that's a problem. 
 * We Finally Talk About Cloud - Gotta do it sometime. 
 * Who Carries The Pager? Monitoring in a DevOps world. Does monitoring really suck? VictorOps maybe? Jason Dixon again?
