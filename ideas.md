@@ -5,11 +5,11 @@ Ideas
 * ~~[DevOps Mythbusters - what are the myths about DevOps?](https://github.com/arresteddevops/podcast/blob/master/scripts/episode-006-devops-mythbusters.md)~~
 * From The Corner Office - panel of CTO/CIO/CEO (etc) talking about if they've done DevOps, if not, why not, advice, thoughts, etc
 * Why Not DevOps? - maybe people who are resistent to it, think it's bad, and why is it bad? 
-* How to change your company culture to a DevOps model? Bill Joy maybe? Please?
+* How to change your company culture to a DevOps model (scheduled for mid-March with Bill Joy)
 * ~~The Tester Show - QA folks. Maybe Lanette Creamer? Please?~~
 * Mental Health in Tech - guest will be Ed Finkler
 * DevOps Gone Wrong - Horror stories
-* Database and DevOps/CD - Redgate and maybe someone else?
+* ~~Database and DevOps/CD - Redgate and maybe someone else?
 * ~~[Configuration management roundtable](http://www.arresteddevops.com/9)~~
 * ~~Agile DevOps - how do the two mix? What are the overlaps, myths, confusions? Len Lagestee as a guest?~~
 * ~~[Continuous Integration](https://github.com/arresteddevops/podcast/blob/master/scripts/episode-005-CI-told-you-so.md)~~
@@ -22,13 +22,13 @@ Ideas
 * The Culture Show - In a true DevOps workplace, what are the social/cultural implications for the people who work there (and the people who manage them)?
 * Cloudy with a Chance of DevOps - how does cloud computing factor into devops? can you do devops without the cloud? what the hell is a freaking cloud anyway?
 * Can DevOps come up as grassroots or does it have to be top-down? How do you do DevOps without "senior management" driving it?
-* Hiring for DevOps/Getting a DevOps Job - Josh Hertz plus someone in recruiting, hiring, etc?
+* ~~Hiring for DevOps/Getting a DevOps Job - Josh Hertz plus someone in recruiting, hiring, etc?
 * DevOps for the regular people
 * ~~The Sysadmin Show - how does a grizzled old-school sysadmin feel about this shiny new DevOps stuff?~~
 * The DevOps Toolbox - SHARE ALL THE THINGS. The big bucket on the interwebs of DevOps resources. Guides
 * Distinctive DevOps  - DevOps best practices. 
 * Version Control - What it is and why you need it in DevOps. (Open discussion of vcs's Git, Mecurial, SVN, etc.)
-* Git 101 - How to start using Git in YOUR environment. 
+* ~~Git 101 - How to start using Git in YOUR environment. 
 * Phd. in DevOps - Learning DevOps from online sources. What are the best ones? Free? Commercial? Books? Offline material? Recommended reading list etc? 
 * Testing the Testers - How to help your testers test your infrastructure as code. 
 * DevOps Newbcast / Starter Kit - Learning the very basics. 3000 ft view of DevOps. What are the basic things you need to get started in your company?
