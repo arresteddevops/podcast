@@ -1,3 +1,5 @@
+[![Tasks in Progress](https://badge.waffle.io/arresteddevops/podcast.svg?label=in%20progress&title=In%20Progress)](http://waffle.io/arresteddevops/podcast)
+
 Podcast Stuff for Arrested DevOps
 =======
 
