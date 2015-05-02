@@ -43,3 +43,4 @@ Ideas
 * Empathy Show - Paul Reed? Adam Jacob? How not to be an asshole and why that's a problem. 
 * We Finally Talk About Cloud - Gotta do it sometime. 
 * Who Carries The Pager? Monitoring in a DevOps world. Does monitoring really suck? VictorOps maybe? Jason Dixon again?
+* DevOps on Campus. Bringing DevOps tools, methodologies, and fun to higher education.
