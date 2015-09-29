@@ -45,3 +45,4 @@ Ideas
 * Who Carries The Pager? Monitoring in a DevOps world. Does monitoring really suck? VictorOps maybe? Jason Dixon again?
 * DevOps on Campus. Bringing DevOps tools, methodologies, and fun to higher education.
 * Solo DevOps - managing to survive when you're the only ops engineer running a huge environment
+* ChatOps & security - methods & recommendations for implementing chatops (or maybe other automation) without creating security holes
